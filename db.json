@@ -1,0 +1,56 @@
+{
+  "allVideos": [
+    {
+      "caption": "Lucky Bhasker",
+      "imageUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/lucky-baskhar-et00386124-1707118285.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/EvFVXlalmXg",
+      "id": 5
+    },
+    {
+      "caption": "Marco",
+      "imageUrl": "https://images.filmibeat.com/img/popcorn/movie_posters/marco-20231005091727-22201.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/5dy3azady4w",
+      "id": 3
+    }
+  ],
+  "allCategory": [
+    {
+      "categoryName": "Malayalam",
+      "allVideos": [
+        {
+          "caption": "Pani",
+          "imageUrl": "https://images.filmibeat.com/img/popcorn/movie_posters/pani-20240530180807-22949.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/TmpzntdJqm4",
+          "id": 4
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "caption": "Marco",
+      "youtubeUrl": "https://www.youtube.com/embed/5dy3azady4w",
+      "formatedDate": "23/11/2024, 11:59:39",
+      "id": 1
+    },
+    {
+      "caption": "Lucky Bhasker",
+      "youtubeUrl": "https://www.youtube.com/embed/EvFVXlalmXg",
+      "formatedDate": "23/11/2024, 11:59:59",
+      "id": 2
+    },
+    {
+      "caption": "Pani",
+      "youtubeUrl": "https://www.youtube.com/embed/TmpzntdJqm4",
+      "formatedDate": "23/11/2024, 12:00:42",
+      "id": 3
+    },
+    {
+      "caption": "Marco",
+      "youtubeUrl": "https://www.youtube.com/embed/5dy3azady4w",
+      "formatedDate": "23/11/2024, 12:00:56",
+      "id": 4
+    }
+  ]
+}
